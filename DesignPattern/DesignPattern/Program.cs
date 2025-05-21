@@ -1,10 +1,21 @@
 using PatternApplication.FactoryMethodPattern;
 
 var builder = WebApplication.CreateBuilder(args);
-
 builder.Services.AddControllers();
-builder.Services.AddTransient<INotificationFactory, SMSNotificationFactory>();
+
+builder.Services.AddTransient<EmailNotificationFactory>();
+builder.Services.AddTransient<SMSNotificationFactory>();
+
+builder.Services.AddSingleton<IDictionary<string, INotificationFactory>>(sp =>
+    new Dictionary<string, INotificationFactory>(StringComparer.OrdinalIgnoreCase)
+    {
+        ["Email"] = sp.GetRequiredService<EmailNotificationFactory>(),
+        ["SMS"] = sp.GetRequiredService<SMSNotificationFactory>()
+    });
+
+builder.Services.AddSingleton<INotificationFactoryProvider, NotificationFactoryProvider>();
 builder.Services.AddTransient<NotificationService>();
+
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 

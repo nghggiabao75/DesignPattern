@@ -15,11 +15,11 @@ namespace DesignPattern.Controllers
         }
 
         [HttpPost]
-        public IActionResult SendNotification([FromBody] string message)
+        public IActionResult SendNotification([FromBody] string message, string type)
         {
             try
             {
-                _notificationService.NotifyUser(message);
+                _notificationService.NotifyUser(message, type);
                 return Ok($"Notification sent");
             }
             catch (ArgumentException ex)

@@ -25,7 +25,7 @@
     // Creator
     public interface INotificationFactory
     {
-        public INotification CreateNotification();
+        INotification CreateNotification();
     }
 
     // Concrete Factories
@@ -45,20 +45,44 @@
         }
     }
 
+    // Factory Provider Registry
+    public interface INotificationFactoryProvider
+    {
+        INotificationFactory GetFactory(string type);
+    }
+
+    public class NotificationFactoryProvider : INotificationFactoryProvider
+    {
+        private readonly IDictionary<string, INotificationFactory> _factories;
+
+        public NotificationFactoryProvider(IDictionary<string, INotificationFactory> factories)
+        {
+            _factories = factories;
+        }
+
+        public INotificationFactory GetFactory(string type)
+        {
+            if (_factories.TryGetValue(type, out var factory))
+                return factory;
+
+            throw new ArgumentException($"Unsupported notification type: {type}");
+        }
+    }
 
     // Client
     public class NotificationService
     {
-        private readonly INotificationFactory _factory;
+        private readonly INotificationFactoryProvider _factoryProvider;
 
-        public NotificationService(INotificationFactory factory)
+        public NotificationService(INotificationFactoryProvider factoryProvider)
         {
-            _factory = factory;
+            _factoryProvider = factoryProvider;
         }
 
-        public void NotifyUser(string message)
+        public void NotifyUser(string message, string type)
         {
-            var notification = _factory.CreateNotification();
+            var factory = _factoryProvider.GetFactory(type);
+            var notification = factory.CreateNotification();
             notification.Send(message);
         }
     }

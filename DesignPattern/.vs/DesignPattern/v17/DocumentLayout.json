@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Blaise\\Desktop\\Blaise\\DesignPattern\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{68F2BA26-D3C4-4A99-B907-EBE14ED9DC87}|DesignPattern\\DesignPattern.csproj|c:\\users\\blaise\\desktop\\blaise\\designpattern\\designpattern\\pattern\\2.factorymethodpattern\\factorymethodpattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68F2BA26-D3C4-4A99-B907-EBE14ED9DC87}|DesignPattern\\DesignPattern.csproj|solutionrelative:designpattern\\pattern\\2.factorymethodpattern\\factorymethodpattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{68F2BA26-D3C4-4A99-B907-EBE14ED9DC87}|DesignPattern\\DesignPattern.csproj|c:\\users\\blaise\\desktop\\blaise\\designpattern\\designpattern\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68F2BA26-D3C4-4A99-B907-EBE14ED9DC87}|DesignPattern\\DesignPattern.csproj|solutionrelative:designpattern\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68F2BA26-D3C4-4A99-B907-EBE14ED9DC87}|DesignPattern\\DesignPattern.csproj|c:\\users\\blaise\\desktop\\blaise\\designpattern\\designpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68F2BA26-D3C4-4A99-B907-EBE14ED9DC87}|DesignPattern\\DesignPattern.csproj|solutionrelative:designpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{68F2BA26-D3C4-4A99-B907-EBE14ED9DC87}|DesignPattern\\DesignPattern.csproj|c:\\users\\blaise\\desktop\\blaise\\designpattern\\designpattern\\pattern\\2.factorymethodpattern\\factorymethodpattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68F2BA26-D3C4-4A99-B907-EBE14ED9DC87}|DesignPattern\\DesignPattern.csproj|solutionrelative:designpattern\\pattern\\2.factorymethodpattern\\factorymethodpattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68F2BA26-D3C4-4A99-B907-EBE14ED9DC87}|DesignPattern\\DesignPattern.csproj|c:\\users\\blaise\\desktop\\blaise\\designpattern\\designpattern\\pattern\\1.simplefactorypattern\\simplefactorypattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68F2BA26-D3C4-4A99-B907-EBE14ED9DC87}|DesignPattern\\DesignPattern.csproj|solutionrelative:designpattern\\pattern\\1.simplefactorypattern\\simplefactorypattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{68F2BA26-D3C4-4A99-B907-EBE14ED9DC87}|DesignPattern\\DesignPattern.csproj|c:\\users\\blaise\\desktop\\blaise\\designpattern\\designpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68F2BA26-D3C4-4A99-B907-EBE14ED9DC87}|DesignPattern\\DesignPattern.csproj|solutionrelative:designpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,15 +30,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "NotificationController.cs",
               "DocumentMoniker": "C:\\Users\\Blaise\\Desktop\\Blaise\\DesignPattern\\DesignPattern\\Controllers\\NotificationController.cs",
               "RelativeDocumentMoniker": "DesignPattern\\Controllers\\NotificationController.cs",
               "ToolTip": "C:\\Users\\Blaise\\Desktop\\Blaise\\DesignPattern\\DesignPattern\\Controllers\\NotificationController.cs",
               "RelativeToolTip": "DesignPattern\\Controllers\\NotificationController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T08:10:56.484Z",
+              "WhenOpened": "2025-05-21T15:10:41.43Z",
               "EditorCaption": ""
             },
             {
@@ -53,36 +49,33 @@
               "RelativeDocumentMoniker": "DesignPattern\\Program.cs",
               "ToolTip": "C:\\Users\\Blaise\\Desktop\\Blaise\\DesignPattern\\DesignPattern\\Program.cs",
               "RelativeToolTip": "DesignPattern\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-20T07:26:26.462Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "FactoryMethodPattern.cs",
               "DocumentMoniker": "C:\\Users\\Blaise\\Desktop\\Blaise\\DesignPattern\\DesignPattern\\Pattern\\2.FactoryMethodPattern\\FactoryMethodPattern.cs",
               "RelativeDocumentMoniker": "DesignPattern\\Pattern\\2.FactoryMethodPattern\\FactoryMethodPattern.cs",
               "ToolTip": "C:\\Users\\Blaise\\Desktop\\Blaise\\DesignPattern\\DesignPattern\\Pattern\\2.FactoryMethodPattern\\FactoryMethodPattern.cs",
               "RelativeToolTip": "DesignPattern\\Pattern\\2.FactoryMethodPattern\\FactoryMethodPattern.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAD4AAAAAAAAAAIAywFYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-20T07:16:36Z",
               "EditorCaption": ""
-            },
+            }
+          ]
+        },
+        {
+          "DockedWidth": 550,
+          "SelectedChildIndex": -1,
+          "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SimpleFactoryPattern.cs",
-              "DocumentMoniker": "C:\\Users\\Blaise\\Desktop\\Blaise\\DesignPattern\\DesignPattern\\Pattern\\1.SimpleFactoryPattern\\SimpleFactoryPattern.cs",
-              "RelativeDocumentMoniker": "DesignPattern\\Pattern\\1.SimpleFactoryPattern\\SimpleFactoryPattern.cs",
-              "ToolTip": "C:\\Users\\Blaise\\Desktop\\Blaise\\DesignPattern\\DesignPattern\\Pattern\\1.SimpleFactoryPattern\\SimpleFactoryPattern.cs",
-              "RelativeToolTip": "DesignPattern\\Pattern\\1.SimpleFactoryPattern\\SimpleFactoryPattern.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T07:15:42.574Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
             }
           ]
         }
