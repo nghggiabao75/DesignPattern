@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Blaise\\SelfLearning\\DesignPattern\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{68F2BA26-D3C4-4A99-B907-EBE14ED9DC87}|DesignPattern\\DesignPattern.csproj|c:\\users\\blaise\\selflearning\\designpattern\\designpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68F2BA26-D3C4-4A99-B907-EBE14ED9DC87}|DesignPattern\\DesignPattern.csproj|solutionrelative:designpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68F2BA26-D3C4-4A99-B907-EBE14ED9DC87}|DesignPattern\\DesignPattern.csproj|c:\\users\\blaise\\selflearning\\designpattern\\designpattern\\pattern\\2.factorymethodpattern\\factorymethodpattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68F2BA26-D3C4-4A99-B907-EBE14ED9DC87}|DesignPattern\\DesignPattern.csproj|solutionrelative:designpattern\\pattern\\2.factorymethodpattern\\factorymethodpattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{68F2BA26-D3C4-4A99-B907-EBE14ED9DC87}|DesignPattern\\DesignPattern.csproj|c:\\users\\blaise\\selflearning\\designpattern\\designpattern\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68F2BA26-D3C4-4A99-B907-EBE14ED9DC87}|DesignPattern\\DesignPattern.csproj|solutionrelative:designpattern\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{68F2BA26-D3C4-4A99-B907-EBE14ED9DC87}|DesignPattern\\DesignPattern.csproj|c:\\users\\blaise\\selflearning\\designpattern\\designpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68F2BA26-D3C4-4A99-B907-EBE14ED9DC87}|DesignPattern\\DesignPattern.csproj|solutionrelative:designpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{68F2BA26-D3C4-4A99-B907-EBE14ED9DC87}|DesignPattern\\DesignPattern.csproj|c:\\users\\blaise\\selflearning\\designpattern\\designpattern\\pattern\\1.simplefactorypattern\\simplefactorypattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68F2BA26-D3C4-4A99-B907-EBE14ED9DC87}|DesignPattern\\DesignPattern.csproj|solutionrelative:designpattern\\pattern\\1.simplefactorypattern\\simplefactorypattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F2BA26-D3C4-4A99-B907-EBE14ED9DC87}|DesignPattern\\DesignPattern.csproj|c:\\users\\blaise\\selflearning\\designpattern\\designpattern\\pattern\\2.factorymethodpattern\\factorymethodpattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68F2BA26-D3C4-4A99-B907-EBE14ED9DC87}|DesignPattern\\DesignPattern.csproj|solutionrelative:designpattern\\pattern\\2.factorymethodpattern\\factorymethodpattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,30 +26,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "NotificationController.cs",
               "DocumentMoniker": "C:\\Users\\Blaise\\SelfLearning\\DesignPattern\\DesignPattern\\Controllers\\NotificationController.cs",
               "RelativeDocumentMoniker": "DesignPattern\\Controllers\\NotificationController.cs",
               "ToolTip": "C:\\Users\\Blaise\\SelfLearning\\DesignPattern\\DesignPattern\\Controllers\\NotificationController.cs",
               "RelativeToolTip": "DesignPattern\\Controllers\\NotificationController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-20T08:10:56.484Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Blaise\\SelfLearning\\DesignPattern\\DesignPattern\\Program.cs",
               "RelativeDocumentMoniker": "DesignPattern\\Program.cs",
               "ToolTip": "C:\\Users\\Blaise\\SelfLearning\\DesignPattern\\DesignPattern\\Program.cs",
               "RelativeToolTip": "DesignPattern\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-20T07:26:26.462Z",
               "EditorCaption": ""
@@ -60,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "FactoryMethodPattern.cs",
               "DocumentMoniker": "C:\\Users\\Blaise\\SelfLearning\\DesignPattern\\DesignPattern\\Pattern\\2.FactoryMethodPattern\\FactoryMethodPattern.cs",
               "RelativeDocumentMoniker": "DesignPattern\\Pattern\\2.FactoryMethodPattern\\FactoryMethodPattern.cs",
@@ -73,13 +73,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "SimpleFactoryPattern.cs",
               "DocumentMoniker": "C:\\Users\\Blaise\\SelfLearning\\DesignPattern\\DesignPattern\\Pattern\\1.SimpleFactoryPattern\\SimpleFactoryPattern.cs",
               "RelativeDocumentMoniker": "DesignPattern\\Pattern\\1.SimpleFactoryPattern\\SimpleFactoryPattern.cs",
               "ToolTip": "C:\\Users\\Blaise\\SelfLearning\\DesignPattern\\DesignPattern\\Pattern\\1.SimpleFactoryPattern\\SimpleFactoryPattern.cs",
               "RelativeToolTip": "DesignPattern\\Pattern\\1.SimpleFactoryPattern\\SimpleFactoryPattern.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAADgvzEAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-20T07:15:42.574Z",
               "EditorCaption": ""
